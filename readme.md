@@ -1,4 +1,4 @@
-## Speech Recognition Using Machine Learning nad Python
+## Speech Recognition Using Machine Learning and Python
 
 #### Install requirement.txt
 #### Setup PyAudio in your system
