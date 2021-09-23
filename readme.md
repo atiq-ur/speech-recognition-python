@@ -8,3 +8,5 @@
 ***
 ``` python jarvis.py ```
 ***
+### Output
+![Output Image](https://github.com/atiq-ur/speech-recognition-python/blob/master/img/sr.png)
